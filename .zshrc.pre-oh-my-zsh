@@ -1,0 +1,2 @@
+export PATH="/home/serhiy/poetry/bin:$PATH"
+

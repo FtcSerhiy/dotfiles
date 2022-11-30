@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true; do
+	KBD="$( ~/.scripts/a.out )"
+
+	xsetroot -name "$KBD | $( date +"%D %T" )"
+done 
